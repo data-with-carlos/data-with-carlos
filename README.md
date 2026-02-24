@@ -3,7 +3,7 @@
 Olá!
 Me chamo Carlos Santos, sou Analista Desenvolvedor Salesforce com experiência na Salesforce Plataform e Marketing Cloud da Salesforce. Sou Double Star Ranger no Trailhead e Agentblazer Innovator.
 
-Cursando Análise e Desenvolvimento de Sistemas na Uninassau por meio do programa [Embarque Digital](https://www.portodigital.org/paginas-institucionais/pessoas/formacao?item=Embarque%20Digital#EmbarqueDigital), parceria do [Porto Digital](https://www.portodigital.org/) com a Prefeitura de Recife.
+Formado em Análise e Desenvolvimento de Sistemas na Uninassau por meio do programa [Embarque Digital](https://www.portodigital.org/paginas-institucionais/pessoas/formacao?item=Embarque%20Digital#EmbarqueDigital), parceria do [Porto Digital](https://www.portodigital.org/) com a Prefeitura de Recife.
 
 ![Carlos Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=brilhantecarlos&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brilhantecarlos&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
